@@ -4,7 +4,7 @@
 * [Initial Recon](#initial-recon)
 * [Lateral Movement](#lateral-movement)
 * [Privilege Escalation](#privilege-escalation)
-* [Tips & Tricks](#tips-&-tricks)
+* [Tips & Tricks](#tips--tricks)
 * [Rabbit holes](#rabbit-holes)
 * [Resources](#resources)
 
